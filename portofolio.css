@@ -63,7 +63,7 @@ transform: translateY(-5px);
 } 
 
 :root {
-  --bg-color: beige;
+  --bg-color: #f5f5dc;
   --main-color: #C38154;
 }
 
@@ -233,6 +233,7 @@ main a:hover {
 }
 
 .layer h5 {
+  color: brown;
   font-size: 20px;
   font-weight: 600;
   margin-bottom: 15px;
